@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration published in the county of Devon by that grand ambo-dexter, Sir George Chudleigh Baronet, to delude his country-men in their iudgement and affections, touching the present differences between His Majestie and the Parliament. Together with a full and satisfactory answer thereunto, transmitted from thence under the hand of a iudicious and well affected patriot. Printed according to order.</title>
+            <author>Chudleigh, George, Sir, ca. 1578-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79553</idno>
+            <idno type="STC">Wing C3981</idno>
+            <idno type="STC">Thomason E37_20</idno>
+            <idno type="STC">ESTC R4330</idno>
+            <idno type="EEBO-CITATION">99872653</idno>
+            <idno type="PROQUEST">99872653</idno>
+            <idno type="VID">155032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155032)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E37[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration published in the county of Devon by that grand ambo-dexter, Sir George Chudleigh Baronet, to delude his country-men in their iudgement and affections, touching the present differences between His Majestie and the Parliament. Together with a full and satisfactory answer thereunto, transmitted from thence under the hand of a iudicious and well affected patriot. Printed according to order.</title>
+                  <author>Chudleigh, George, Sir, ca. 1578-1657.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. for Richard Clutterbuck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>An. Dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By George Chudleigh.</note>
+                  <note>Annotation on Thomason copy: the second 4 in 1644 is crossed out; "March 14th   1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devon (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155032:1"/>
+            <pb facs="tcp:155032:1" rendition="simple:additions"/>
+            <p>A DECLARATION Publiſhed in the County of <hi>DEVON</hi> By that Grand Ambo-dexter, Sir <hi>George Chudleigh</hi> Baronet, To delude his Country-men in their Iudgement and Affections, touching the preſent diffe<g ref="char:EOLhyphen"/>rences between his Majeſtie and the PARLIAMENT.</p>
+            <p>Together with a full and ſatisfactory An<g ref="char:EOLhyphen"/>ſwer thereunto, tranſmitted from thence under the Hand of a Iudicious and well Affected Patriot.</p>
+            <p>Printed according to Order.</p>
+            <p>
+               <hi>LONDON</hi> Printed by L. <hi>N.</hi> For <hi>Richard Clutterbuck. An. Dom.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:155032:2"/>
+            <pb n="3" facs="tcp:155032:2"/>
+            <head>A deluſory Declaration of Sir <hi>George Chudleigh</hi> Baronet.</head>
+            <p>THe ancient (if not the prime) fabricke of the famous Kingdom to be raiſed upon theſe three maine pillars, the Royall Soveraigntie, and the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, is ſo well known as it needs no de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laratio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as the proportionable ſtructure and diſpoſition of theſe three doth promiſe to the eye of reaſon, and ſound policie, nothing but uniformitie, ſtrength and beautie; ſo the experience of all ages ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h conſtantly taught, as that the unitie and correſpondencie of theſe Fundamentall peeces hath beene the ſupport, preſervation, and happineſſe of the whole: and no leſſe apparent is it, that their disjunction and ſeparation muſt be their totall ruine and deſtruction. The King hath Royall prerogatives undeniable, without which he cannot governe as a King: The two Houſes of Parliament have their peculiar priviledges, wherein every Subject hath his intereſt; the end of all is, that by a meet temper of their ſeverall rights, Iuſt frame of government may ariſe for the common good, which may reſtraine all exor<g ref="char:EOLhyphen"/>bitant affections and attempts, if any happen in either part; now theſe prerogatives of the King, and priviledges of the Subject, though they have diſtinct operations, yet they are of ſo neere conjunction, as differences doe ſometime ariſe to interrupt their motion; much like the wheeles of a clocke or watch, ſo depending each upon other, as the ſmalleſt moate or hayre may beget a ſtop and diſorder, the greater care ſhould be had in the keeping; but differences doe ſometime ariſe, though never (as I ſuppoſe) aggravated to that ex<g ref="char:EOLhyphen"/>tremitie as now; petitions of right are commendable, Remonſtrances not unlawfull, but Armes though defenſive ſeeme doubtfull. My Lot fell to be caſt on the Parliaments ſide, by a ſtrong opinion I had of the goodnes of their cauſe, and the Loyall ſervice I ſhould do his Majeſtie, in defending that His high Court from the manifeſt enemies that then to my judgement appeared againſt it: Religion and the Subjects lawfull rights ſeemed in danger, and the generall intereſt called for the common care to preſerve it, but I beleeve it hath gone too far; the deſtruction of a Kingdome cannot be the way to ſave it, the loſſe of Chriſtian Subjects, the Subjects loſſe of their Eſtates, by a double plunder or aſſeſ<g ref="char:EOLhyphen"/>ment, concurs not with piety nor yet with proprietie. Touching Religion, which is the chiefe, (and I confeſſe, in greateſt danger) his Majeſtie (whom God long preſerve) hath given us unqueſtionable ſecuritie during his own time; for the reſt the Lord of hoſts with me hath determined the controverſie, having done my utmoſt faithfully according to my Proteſtation, I have throwne my ſelfe at my Soveraignes feet, and embraced His gracious pardon, I will contend no more in word or deed. And this my reſolution with the in<g ref="char:EOLhyphen"/>diſputable grounds thereof, I thought fit to declare to my friends and Country-men, that they may underſtand my ſitting downe to proceed from no compulſion, but the neceſſitie I conceive there is of ceaſing this deſtructive warre, unleſſe we will become the wilfull Authours of the calamities we would decline; this may ſuffice for this time, making my prayer according to my hopes for ſpeedy peace: but if the warre ſhall continue (which God forbid) I may happily take up ſome further determinations.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:155032:3"/>
+            <head>The anſwer to the Declaration.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>MEeting with a gallant Oration directed to your Countrymen, I con<g ref="char:EOLhyphen"/>ceived it concerned my ſelfe, and upon peruſall found it to be an iſſue of your owne braine, both by the elegancie of the Phraſe, and the Sophiſtrie of the matter: to be plaine, I muſt tell you, it's a lively Cha<g ref="char:EOLhyphen"/>racter of your ſelfe and Actions, wherein you diſcover learning enough for a countrie Iuſtice: you ſeeme to apprehend ſome generall notions and ſpe<g ref="char:EOLhyphen"/>culations of government; your intellect floats on the ſuperficies, but your reaſon was never ſo weighty to ſinke downe into the deep fundamentalls; you have gone beyond your laſte; when you talke of Fabricks, Pillars and Fundamentalls, you raiſe a top without a bottome: The learned will tell you that the prime and Ancient conſtitutions of this Kingdom were raiſed upon that which we call <hi>Lex terrae,</hi> the Law of the Land, and this Law is the pillar of Soveraigntie; ſafety and propriety enthrones the King, and ſets the Royall Diademe on the head of Majeſtie, it is the rule as well of Soveraigntie as of obedience; abrogate Law, what becomes of Soveraigntie, when obedience is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfranchiſed? The wiſeſt of Kings hath determined the queſtion, <hi>Plebs ſine lege ruit;</hi> And that learned ornament of the Law aged <hi>Bracton</hi> tells us, <hi>Quod Rex attribuit legi, lex attribuit Regi:</hi> which implies a reciprocall ſupport each of other: the King giveth life and motion to the Law, and the Law retributes vertue and operation to the King: if ſo, why do you pery winck at the pillar? you were once accounted a pillar your ſelfe, and ſo you are ſtill, as Lots wife for looking backe; but honeſt Coun<g ref="char:EOLhyphen"/>try-man, herein appeares a Sophiſtrie; he rendereth you to Soveraigntie, but tels you not a word of Law; he knowes the rule, <hi>fruſtra anxilium legis petat qui in legem peccat:</hi> Certainely had he beene a well-wiſher to the Law, he would have lent a hand to the Law, in raiſing the prime Fabricke; but what is the reaſon you doe not informe us of the pillars and Funda<g ref="char:EOLhyphen"/>mentalls of the Law? why, the Fundamentalls themſelves are the reaſons, and they are, firſt; Generall Maximes; ſecondly, the Law of God, thirdly,
+<pb n="5" facs="tcp:155032:3"/> eternall reaſon, fourthly, Acts of Parliament, fifthly, generall and approved cuſtomes: hath not your treacherie and Apoſtaſie offended all theſe Fundamentalls? are not theſe the ſupport, preſervation and happineſſe of the whole that you ſpeake of? are not theſe the policie, ſtrength and beautie of this nation? Why do you miſtake the principall? I feare me; your wiſe<g ref="char:EOLhyphen"/>dome is guiltie of a concealment: Why doe you traduce us with a partie-coloured Diviſion, and take them <hi>diviſim,</hi> which are not but <hi>conjunction;</hi> The King and the two Houſes of Parliament nominally three but virtually one? Why doe you and your adherents abuſe us all with your diviſions, to tell us that the disjunction and ſeparation of theſe muſt be our totall ruine and deſtruction? I muſt confeſſe it tends that way, the Kingdome divided cannot ſtand; but this text admits of a <hi>Magis</hi> and a <hi>Minus,</hi> the diſeaſe is not growne to that height but there is a cure, we have a receit from <hi>Solomon</hi> the beſt naturalliſt in the world; <hi>take away the wicked from be<g ref="char:EOLhyphen"/>fore the King, and His throne ſhall be eſtabliſhed;</hi> this <hi>probatum eſt,</hi> doe not miſtake your ſelfe, this muſt, this may be done without totall ruine or deſtruction, and let them be accurſed that were the Authors of thoſe exigents. But you tell us, the King hath Royall Prerogatives undeniable, without which he cannot govern as a King; this is granted and allowed: but what do you mean by theſe Prerogatives, a will at large, or commands illegal? can the King create Prerogatives <hi>De novo</hi> or <hi>extempore?</hi> herein againe you ſhew your ſophiſtrie: now prerogatives are regulated, not exorbitant, but ſuch as <hi>Lex terrae</hi> preſcribes: the ſtatutes <hi>De praerogativa Regis,</hi> are <hi>declarative antiqui, non introductiva novi Iuris?</hi> prerogative is a branch of the Com<g ref="char:EOLhyphen"/>mon Law, this is a truth unqueſtionable, hath not then Prerogative its riſe from the Law of the Land? I feare you couch an ill meaning under apparent truths: you ſay the two Houſes of Parliament have their peculiar privi<g ref="char:EOLhyphen"/>ledges; you might truely have ſaid, they had or ought to have but can you ſay they have, when they are invaded, when there is an Actuall warre made a<g ref="char:EOLhyphen"/>gainſt them, by a crew of ſuch Royaliſts as your ſelfe? how can we expect a meet temper of theſe, or a juſt frame of government, when theſe exor<g ref="char:EOLhyphen"/>bitant affections and attempts are above the frame of this government? you talke much of diſtinct operations, and the wheeles of a clocke, to ſhew you are an obſerver of times, rather then a preventer of the aggra<g ref="char:EOLhyphen"/>vation of the extremitie you ſpeak of: you ſay petitions of Right are com<g ref="char:EOLhyphen"/>mendable; why did not you ſpeake out and ſay, petitions of Right are ne<g ref="char:EOLhyphen"/>ceſſary, when prerogative gives it a mortall wound, &amp; deſtroyes a principall, that <hi>Ius nunquam moritur?</hi> Why, could you afford Remonſtrances no better language, then that they were not unlawfull? are they not convenient, when
+<pb n="6" facs="tcp:155032:4"/> neceſſitie requires them? Armes (you ſay) though defenſive, ſeeme doubt<g ref="char:EOLhyphen"/>full: to whom doe they ſeeme ſo? It ſeemeth you degenerate from nature, Law, and Religion: is there not a cauſe? did <hi>Davids</hi> Army ſeem doubtfull? And why did you take up Armes at firſt? we are now ſenſible of the reaſon, you were a doubtfull man at firſt, but now we know what you are with<g ref="char:EOLhyphen"/>out Queſtion; you ſay, your Lot fell to be caſt on the Parliaments ſide, ſure<g ref="char:EOLhyphen"/>ly the Parliament had ill-fortune in that Lotterie. But you fell and were caſt, for you never ſtood right on the Parliaments ſide: you ſay, you had a ſtrong opinion of the goodnes of the cauſe, and of the Loyall ſervice you ſhould do His Majeſty in defending that His high Court of Parliament, from the mani<g ref="char:EOLhyphen"/>feſt enmity that then to your judgement appeared againſt it: how comes your ſtrong opinion to be weakened? examine your ſelfe, when you loſt your goodneſſe, your judgement was infatuated, and then you deſerted Loyall ſervice to King and Parliament. When the Parliament truſted un<g ref="char:EOLhyphen"/>faithfull men, then the cauſe ſuffered, but the goodneſſe of it is not yet tainted. Why doe you caſt aſperſions on the Houſes of Parliament? it ſeems you are troubled with many Apparitions, when you ſaw Religion and the Subjects right ſeemed in danger: was it but a ſemblance? did you but ſee in a viſion the thouſands of ſlaughtered carkaſſes, whoſe death your unfaithful<g ref="char:EOLhyphen"/>neſſe ſeemes to be the Author, you would confeſſe with horrour and trem<g ref="char:EOLhyphen"/>bling, Religion and Right were in danger; what, hath the common care gone too farre to preſerve Religion and the Subjects right as (you ſay) you feare it hath? nay can it goe too far? I wiſh you had as much faith as feare, then you would have put into your creede that Religion, and the Subjects right were in danger. The deſtruction of a Kingdome cannot be the way to ſave it: tis a truth, why then have you walked in thoſe wayes of de<g ref="char:EOLhyphen"/>ſtruction? for our parts we deſire to walke in the wayes of God: to meet him in our faſting, in our prayers, in our Humiliations, and in our reforma<g ref="char:EOLhyphen"/>tions: and doubt not but we ſhall finde him in the preſervation of this Kingdome from deſtruction: you ſay the loſſe of Chriſtian Subjects, of eſtates double plundred, and aſſeſſements, concur not with pietie nor pro<g ref="char:EOLhyphen"/>priety; tis a truth, and could not the old Sophiſter cite a Text, but miſapply it? who is it that hath inacted all theſe offences to be lawfull? hath made mur<g ref="char:EOLhyphen"/>ther lawfull, ſtealing lawfull, violence and oppreſsion lawfull, Idolatry, ſwearing, Sabbath-breaking, whoring, drinking, blaſpheming; nay, are not theſe accounted acceptable ſervices to God? nay, who is it that putteth theſe things in practice? Theſe things I confeſſe concurre not with piety nor propriety; Religion, you ſay, ſeemed in danger; and did it but ſeeme
+<pb n="7" facs="tcp:155032:4"/> ſo? Let me put you a caſe: if there be a Nurſing Father, and a Nurſing Mother of contrary Religions, of what Religion are you ſure their children would be? The Civill-law tels us, <hi>Partus ſequitur ventrem,</hi> and wee know by experience, children delight in the dugs and infuſions of the mother; the mothers Beads and Pictures are more delightfull to chil<g ref="char:EOLhyphen"/>dren, then the ſerious and wiſe Inſtruction of the father. You tell us you have unqueſtionable ſecurity, for Religion; but for how long? you ſay, during the Kings owne time; I wiſh, <hi>O King live for ever:</hi> yet give me leave to tell you, you have a very uncertain eſtate in Religion, the King hath no Prerogative above Subjects in the certainty of his life; let mee adviſe you to take a further and better eſtate in Religion, you may procure it as good cheap to you, and the heires males of your body, as you may for three lives: to be ſerious, doth your care for religion extend no further then du<g ref="char:EOLhyphen"/>ring the Kings own time? what will you and your poſterity doe afterward? it ſeemeth by your following diſcourſe, that you meane to ſit downe, and to leave Religion and Law to the wide world: is it not a paradox, to main<g ref="char:EOLhyphen"/>taine the Proteſtant Religion with Popiſh Armies? you ſay his Majeſtie hath given you unqueſtionable ſecurity touching Religion: what ſecurity, or what religion doe you meane? though you keepe that to your ſelfe, yet if his Majeſtie were redeemed out of the hands of thoſe of your religion and Ends, we ſhould as little doubt the ſecurity of our Religion as you. You pray that God would long preſerve the King, with a Parentheſis, but wee will pray for the long preſervation of the King with an Emphaſis, and never leave praying till we have prayed him out of your hands; for we cannot thinke him ſafe there: aſſure your ſelfe, we will ſacrifice our ſelves to re<g ref="char:EOLhyphen"/>duce him to his Center the Parliament, whereby the Lawes he ought to be, and hope to bring all your confederates to the throne of Iuſtice, where his Majeſtie being eſtabliſhed by his Lawes, ſhall pronounce the ſentence of unfaithfulneſſe againſt you: but how can you for ſhame ſay you have done your utmoſt, according to your Proteſtation? I confeſſe I cannot without indignation confute you, I pitty your Apoſtaſie, it needs no demonſtration; have you thrown your ſelfe at your Soveraignes feet? it is your duty: and imbraced his gracious pardon? I commend your wiſdome: you ſtand in need of more pardons then one, if you would but take a ſurvey of what you have done: I muſt confeſſe we have all offended, and have neede of pardon, but in this wherein have I offended his Majeſtie, that he ſhould hunt after my life as a Partrich? I will ſue to God for pardon of my ſins, but I will never betray mine owne innocencie.</p>
+            <p>For the reſt, you ſay, the Lord of Hoſts with you hath decided the Con<g ref="char:EOLhyphen"/>troverſie<g ref="char:punc">▪</g> what do you mean by the reſt, and what controverſie do you
+<pb n="8" facs="tcp:155032:5"/> mean? when had you a right of Aſſociation to ſit in Judgement, and decide controverſies with the Lord of Hoſts? what do you mean by thoſe lofty ſtraines, 'tis as proud a theame as that of an inſolent Prelate, <hi>Ego &amp; Rex mous, &amp;c.</hi> the Lord of Hoſts with you is an elevation above the Pole. You ſay you will contend no more in word or deed: What, will you do no more for your God, your King nor your Countrey? it ſeemeth you reſolve to be but a neuter <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t beſt.</p>
+            <p>Thirdly, you ſay that this your reſolution, with the indiſputable grounds thereof, you thought fit to declare unto your friends and countrey-men; where do you finde ſuch indiſputable grounds for ſuch ignoble reſolutions? ſhould ſo active, ſo wiſe a man as your ſelf ſit down and be a ſpectator of your countries Tragedie, and neither ſpeak a word to preſerve it, nor do one good deed to revive it? but baſe reſolutions have proud thoughts. You preſent<g ref="char:EOLhyphen"/>ly fall upon a ſtrange conceit, that your ſitting down with your Declaration, will of neceſſity end theſe deſtructive wars; why are you ſo ſelf-conceited, to thinke your precedent will draw the whole world into your imitation? are your poſitions ſo poſitive, that they are undeniable, unqueſtionable, and indiſputable? from whom have your conceptions ſuch a prerogative? If you have ſuch indiſputable things, why do you not produce them for the common good? Then you conclude with a menace to your countrey-men, that if the war ceaſe not, you will take up ſome further determinations; what determinations do you mean? I muſt needs ſay you are the intricateſt man that ever I read; but I gueſſe at your meaning, you will be a looker on, and at laſt determine, like a door on his hinges, to turne either way, ſo you think in your judgement, that a neuter will be entertained at your pleaſure, of either party. I have ſpoken my thoughts, and ſo leave you to your owne conceits and fortunes.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
